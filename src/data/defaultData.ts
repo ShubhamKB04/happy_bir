@@ -234,8 +234,8 @@ export const DEFAULT_CONFIG: AppConfig = {
   polaroidText: 'Happy Birthday GUDIYA ❤️',
   passcode: '1234',
   cakeHeading: 'Swipe to Cut the Cake! 🎂',
-  cakeCelebrationText: 'Happy Birthday, My Love! 💖',
-  letterTitle: 'Happy Birthday My Love ✨',
+  cakeCelebrationText: 'Happy Birthday, Seema! 💖',
+  letterTitle: 'Happy Birthday Seema✨',
   letterGreeting: 'Happiest birthday to the love of my life! 🌸',
   letterBody: [
     'Wishing you achieve all your dreams, stay happy, and keep smiling the way you do...',
